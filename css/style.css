@@ -162,11 +162,8 @@
 .navigation >ul > li + li::after {
     content: " / ";
     display: block;
-    -webkit-margin-before: -22px;
-    -webkit-margin-after: 0em;
-    -webkit-margin-start: -9px;
-    -webkit-margin-end: 78px;
-    -webkit-padding-start: 0px;
+    margin-left: -10px;
+    margin-top: -22px;
 }
 
 .navigation > ul >li >a {
@@ -643,11 +640,8 @@
 .f_navigation >ul > li + li::after {
     content: " / ";
     display: block;
-    -webkit-margin-before: -22px;
-    -webkit-margin-after: 0em;
-    -webkit-margin-start: -9px;
-    -webkit-margin-end: 78px;
-    -webkit-padding-start: 0px;
+    margin-left: -10px;
+    margin-top: -22px;
 }
 
 .f_navigation > ul >li {
